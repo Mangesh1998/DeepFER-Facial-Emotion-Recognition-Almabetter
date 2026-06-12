@@ -1,0 +1,24 @@
+# Dataset
+images/
+
+# Python / Jupyter / Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.conda/
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
